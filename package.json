@@ -1,0 +1,13 @@
+{
+  "name": "roblox-gamepass-proxy",
+  "version": "1.0.0",
+  "description": "Proxy to fetch Roblox Game Pass IDs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.1"
+  }
+}
